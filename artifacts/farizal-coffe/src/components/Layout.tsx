@@ -155,7 +155,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
               <ul className="space-y-4">
                 <li className="flex items-start gap-3">
                   <MapPin className="w-5 h-5 text-primary shrink-0 mt-0.5" />
-                  <span className="text-muted-foreground text-sm">Jl. Sudirman No. 88, Jakarta, Indonesia 10220</span>
+                  <span className="text-muted-foreground text-sm">Kota Baru, Jambi, Indonesia</span>
                 </li>
                 <li className="flex items-center gap-3">
                   <Phone className="w-5 h-5 text-primary shrink-0" />
@@ -163,7 +163,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
                 </li>
                 <li className="flex items-center gap-3">
                   <Mail className="w-5 h-5 text-primary shrink-0" />
-                  <span className="text-muted-foreground text-sm">hello@farizalcoffe.id</span>
+                  <span className="text-muted-foreground text-sm">farizzaldn@gmail.com</span>
                 </li>
               </ul>
             </div>

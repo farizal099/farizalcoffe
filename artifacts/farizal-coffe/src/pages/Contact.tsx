@@ -31,7 +31,7 @@ export default function Contact() {
     {
       icon: MapPin,
       title: "Visit Us",
-      lines: ["Jl. Sudirman No. 88", "Jakarta, Indonesia 10220"],
+      lines: ["Kota Baru", "Jambi, Indonesia"],
     },
     {
       icon: Phone,
@@ -41,7 +41,7 @@ export default function Contact() {
     {
       icon: Mail,
       title: "Email Us",
-      lines: ["hello@farizalcoffe.id", "We reply within 24 hours"],
+      lines: ["farizzaldn@gmail.com", "We reply within 24 hours"],
     },
     {
       icon: Clock,
