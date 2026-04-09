@@ -1,0 +1,149 @@
+Create a fully designed, responsive, and production-ready coffee shop website for a brand called "FARIZAL COFFE".
+
+IMPORTANT:
+
+* Generate full UI design, not just text content
+* Include layout, images, spacing, typography, and visual hierarchy
+* Use modern web design best practices
+
+---
+
+🎨 DESIGN STYLE:
+
+* Theme: Cozy, premium coffee shop
+* Mood: Warm, inviting, modern café
+* Color palette:
+
+  * Dark brown (#3E2723)
+  * Cream (#F5E6CA)
+  * Coffee gold (#C69C6D)
+* Typography:
+
+  * Headings: Elegant serif
+  * Body: Clean sans-serif
+* Use soft shadows, rounded corners, and clean spacing
+* Add smooth animations and hover effects
+
+---
+
+📱 RESPONSIVE DESIGN:
+
+* Fully responsive (desktop, tablet, mobile)
+* Mobile-first layout
+* Sticky navigation bar
+
+---
+
+🏠 HOMEPAGE STRUCTURE:
+
+1. HERO SECTION
+
+* Full-width background image (coffee / latte art)
+* Overlay gradient for readability
+* Heading: "Experience the Taste of Premium Coffee"
+* Subheading: "Freshly brewed happiness in every cup"
+* Primary CTA button: "Order Now"
+* Secondary CTA: "View Menu"
+
+---
+
+2. ABOUT SECTION
+
+* Two-column layout (image + text)
+* Image: barista or coffee beans
+* Text:
+  "FARIZAL COFFE serves high-quality coffee crafted with passion using the finest beans."
+* Add subtle fade-in animation
+
+---
+
+3. FEATURED MENU SECTION
+
+* Grid layout (3 columns desktop, 1 column mobile)
+* Each item is a card with:
+
+  * Image
+  * Name (Espresso, Latte, Cappuccino, etc.)
+  * Short description
+  * Price (Rp format)
+  * Button: "Add to Cart"
+* Add hover animation (scale + shadow)
+
+---
+
+4. WHY CHOOSE US SECTION
+
+* 4 columns with icons
+* Items:
+
+  * Premium Beans
+  * Expert Baristas
+  * Cozy Atmosphere
+  * Fast Service
+* Use icons and short descriptions
+
+---
+
+5. TESTIMONIALS SECTION
+
+* Card layout with customer reviews
+* Include stars rating (⭐⭐⭐⭐⭐)
+* Use 2–3 testimonials
+
+---
+
+6. CALL TO ACTION SECTION
+
+* Background color: coffee gold
+* Text: "Ready to enjoy your coffee?"
+* Button: "Order Now"
+
+---
+
+7. FOOTER
+
+* Logo: FARIZAL COFFE
+* Navigation links
+* Social media icons
+* Contact info:
+
+  * Email
+  * Phone
+  * Location
+
+---
+
+🛒 ADDITIONAL PAGES:
+
+1. MENU PAGE
+
+* Categories: Hot Coffee, Cold Coffee, Signature
+* Filter tabs
+* Card layout with images and prices
+
+2. ORDER PAGE
+
+* Simple cart UI
+* Product list + total price
+* Checkout button
+
+3. CONTACT PAGE
+
+* Contact form (Name, Email, Message)
+* Map placeholder
+* WhatsApp contact button
+
+---
+
+⚙️ FEATURES:
+
+* Smooth scrolling
+* Hover animations
+* Clean grid system
+* Visual hierarchy (spacing, contrast)
+* Optimized for performance
+
+---
+
+🎯 FINAL GOAL:
+The website must look like a real premium coffee shop brand ready for customers to browse and order online.

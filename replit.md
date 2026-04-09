@@ -25,3 +25,18 @@ pnpm workspace monorepo using TypeScript. Each package manages its own dependenc
 - `pnpm --filter @workspace/api-server run dev` — run API server locally
 
 See the `pnpm-workspace` skill for workspace structure, TypeScript setup, and package details.
+
+## FARIZAL COFFE Website (`artifacts/farizal-coffe`)
+
+- **Type**: React + Vite, frontend-only, no backend
+- **Preview path**: `/` (root)
+- **Framework**: React 18, TailwindCSS v4, Framer Motion, Wouter routing
+- **Theme**: Dark brown (#3E2723), Cream (#F5E6CA), Coffee Gold (#C69C6D)
+- **Fonts**: Playfair Display (serif headings) + Inter (body)
+- **Pages**:
+  - `/` — Homepage (hero, about, featured menu, why us, testimonials, CTA, footer)
+  - `/menu` — Full menu with category filter tabs + search
+  - `/order` — Cart/order page with quantity controls and checkout
+  - `/contact` — Contact form, info cards, map placeholder, WhatsApp button
+- **State**: Cart state managed via `src/hooks/use-cart.tsx` with React Context
+- **Components**: `src/components/Layout.tsx` (sticky nav + footer shared across all pages)

@@ -1,0 +1,56 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "TsAm8SJ0m_svtpOIregOW"
+uri = "file://artifacts/farizal-coffe/src/assets/images/hero.png"
+type = "image"
+title = "Hero coffee shop background"
+
+[[generated]]
+id = "xQ2lSr01cc0YzYS7FI3QY"
+uri = "file://artifacts/farizal-coffe/src/assets/images/about.png"
+type = "image"
+title = "Barista pouring coffee"
+
+[[generated]]
+id = "fFRUqRGqqMS54JvTZ8k5r"
+uri = "file://artifacts/farizal-coffe/src/assets/images/espresso.png"
+type = "image"
+title = "Espresso shot"
+
+[[generated]]
+id = "xlVPOtY07E2omH_zoKvjG"
+uri = "file://artifacts/farizal-coffe/src/assets/images/latte.png"
+type = "image"
+title = "Latte art"
+
+[[generated]]
+id = "Gbdnnv-9rj7HIs7eMv2D4"
+uri = "file://artifacts/farizal-coffe/src/assets/images/cappuccino.png"
+type = "image"
+title = "Cappuccino foam"
+
+[[generated]]
+id = "ti_6als5L76S1qR9IRz1R"
+uri = "file://artifacts/farizal-coffe/src/assets/images/cold-brew.png"
+type = "image"
+title = "Cold Brew coffee"
+
+[[generated]]
+id = "9P9PeBMtQwB5UY1F58EBd"
+uri = "file://artifacts/farizal-coffe/src/assets/images/matcha-latte.png"
+type = "image"
+title = "Iced Matcha Latte"
+
+[[generated]]
+id = "fPON4oOmVnH7EKYhe-2RO"
+uri = "file://artifacts/farizal-coffe/src/assets/images/hazelnut.png"
+type = "image"
+title = "Hazelnut coffee"
+
+[[generated]]
+id = "uE2GUOmUGtrKs8djgV1GG"
+uri = "file://artifacts/farizal-coffe/src/assets/images/vietnamese.png"
+type = "image"
+title = "Vietnamese Iced Coffee"
