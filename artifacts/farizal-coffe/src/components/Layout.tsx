@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Link, useLocation } from "wouter";
-import { ShoppingBag, Menu, X, Coffee, Instagram, Twitter, Facebook, MapPin, Phone, Mail } from "lucide-react";
+import { ShoppingBag, Menu, X, Coffee, Instagram, MapPin, Phone, Mail } from "lucide-react";
 import { useCart } from "@/hooks/use-cart";
 import { Button } from "@/components/ui/button";
 
@@ -128,14 +128,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
                 Premium Indonesian coffee brand crafting moments of warmth and coziness since 2020.
               </p>
               <div className="flex items-center gap-4">
-                <a href="#" className="w-8 h-8 rounded-full bg-background flex items-center justify-center text-muted-foreground hover:text-primary transition-colors">
+                <a href="https://instagram.com/fariizalcihuy" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-background flex items-center justify-center text-muted-foreground hover:text-primary transition-colors">
                   <Instagram className="w-4 h-4" />
-                </a>
-                <a href="#" className="w-8 h-8 rounded-full bg-background flex items-center justify-center text-muted-foreground hover:text-primary transition-colors">
-                  <Twitter className="w-4 h-4" />
-                </a>
-                <a href="#" className="w-8 h-8 rounded-full bg-background flex items-center justify-center text-muted-foreground hover:text-primary transition-colors">
-                  <Facebook className="w-4 h-4" />
                 </a>
               </div>
             </div>
