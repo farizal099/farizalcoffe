@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link, useLocation } from "wouter";
 import { ShoppingBag, Menu, X, Coffee, Instagram, MapPin, Phone, Mail } from "lucide-react";
+import { SiTiktok } from "react-icons/si";
 import { useCart } from "@/hooks/use-cart";
 import { Button } from "@/components/ui/button";
 
@@ -130,6 +131,9 @@ export function Layout({ children }: { children: React.ReactNode }) {
               <div className="flex items-center gap-4">
                 <a href="https://instagram.com/fariizalcihuy" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-background flex items-center justify-center text-muted-foreground hover:text-primary transition-colors">
                   <Instagram className="w-4 h-4" />
+                </a>
+                <a href="https://tiktok.com/@aturner748" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-background flex items-center justify-center text-muted-foreground hover:text-primary transition-colors">
+                  <SiTiktok className="w-4 h-4" />
                 </a>
               </div>
             </div>
