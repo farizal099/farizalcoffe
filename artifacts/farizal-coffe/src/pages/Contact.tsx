@@ -36,7 +36,7 @@ export default function Contact() {
     {
       icon: Phone,
       title: "Call Us",
-      lines: ["+62 812-3456-7890", "Mon–Sun, 7am–10pm"],
+      lines: ["+62 87713909103", "Mon–Sun, 7am–10pm"],
     },
     {
       icon: Mail,
@@ -218,8 +218,8 @@ export default function Contact() {
                 <div className="bg-background/90 backdrop-blur-sm rounded-2xl p-6 text-center max-w-xs">
                   <MapPin className="w-10 h-10 text-primary mx-auto mb-3" />
                   <h3 className="font-serif font-semibold mb-1">Find Us Here</h3>
-                  <p className="text-muted-foreground text-sm">Jl. Sudirman No. 88</p>
-                  <p className="text-muted-foreground text-sm mb-4">Jakarta, Indonesia 10220</p>
+                  <p className="text-muted-foreground text-sm">Jl. Kota Baru</p>
+                  <p className="text-muted-foreground text-sm mb-4">Jambi, Indonesia</p>
                   <a
                     href="https://maps.google.com"
                     target="_blank"
@@ -245,7 +245,7 @@ export default function Contact() {
                     Get an instant response! Chat with us directly on WhatsApp for orders, reservations, or any questions.
                   </p>
                   <a
-                    href="https://wa.me/6281234567890?text=Halo%20FARIZAL%20COFFE!%20Saya%20ingin%20bertanya%20tentang%20menu%20Anda."
+                    href="https://wa.me/6287713909103?text=Halo%20FARIZAL%20COFFE!%20Saya%20ingin%20bertanya%20tentang%20menu%20Anda."
                     target="_blank"
                     rel="noopener noreferrer"
                     data-testid="link-whatsapp"
