@@ -258,10 +258,10 @@ export default function Home() {
                   <span className="text-primary italic">Brewed to Perfection</span>
                 </h2>
                 <p className="text-foreground/70 text-lg leading-relaxed mb-6">
-                  FARIZAL COFFE was born from a deep love for coffee and a desire to bring premium, authentic flavors to every cup. We source our beans from Indonesia's finest highlands — Aceh, Toraja, and Java — where the rich volcanic soil creates coffee with unparalleled depth and complexity.
+                  FARIZAL COFFE started from a simple love for coffee and a desire to share great taste in every cup. We get our beans from Indonesia's best highlands — Aceh, Toraja, and Java — where the rich volcanic soil gives our coffee a unique and full flavor.
                 </p>
                 <p className="text-foreground/70 leading-relaxed mb-10">
-                  Our baristas aren't just coffee makers — they're artists who treat each cup as a canvas. Every pour, every steam, every blend is executed with meticulous care to deliver the perfect experience.
+                  Making coffee here isn't just a job. Our baristas put care into every cup, from pouring to steaming, so that every sip feels just right and leaves a little smile in every moment.
                 </p>
                 <div className="flex gap-12">
                   {[["500+", "Daily Cups"], ["50+", "Coffee Varieties"], ["10K+", "Happy Customers"]].map(([num, label]) => (
